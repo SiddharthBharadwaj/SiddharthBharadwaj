@@ -37,6 +37,7 @@ A command-line utility to automate fleet creation and management for Trickest Co
 
 ## 🤝 Connect with Me
 
+[![Telegram](https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=telegram&logoColor=white)](https://t.me/SiddharthBharadwaj)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SiddharthBharadwaj)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/____Siddharth__)
 [![Website](https://img.shields.io/badge/-Website-FF4088?style=flat&logo=safari&logoColor=white)](https://siddharth.pro)
